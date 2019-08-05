@@ -66,11 +66,20 @@ h2{
 	.container{
 		width:90%;
 		float:none;
-		margin-bottom:20px;
+		margin-bottom: 20px;
+		margin:0 auto;
+
+		
+
 
 	}
 	.container:last-child{
 		margin-bottom:0;
+		margin:0 auto;
+	}
+	.text{
+		width:100%;
+
 	}
 
 
